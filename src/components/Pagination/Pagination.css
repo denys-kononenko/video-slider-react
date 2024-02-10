@@ -1,0 +1,25 @@
+.Pagination {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  padding: 10px;
+}
+
+.point {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: white;
+  transition: transform .1s linear;
+  will-change: transform;
+}
+
+.point:hover {
+  cursor: pointer;
+  transform: scale(1.5);
+}
+
+.active-point {
+  background-color: black;
+  transform: scale(1.5);
+}
