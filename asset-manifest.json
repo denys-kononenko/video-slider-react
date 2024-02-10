@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/denys-kononenko.github.io/video-slider-react/static/css/main.fb739ec7.css",
-    "main.js": "/denys-kononenko.github.io/video-slider-react/static/js/main.685188fd.js",
-    "static/js/592.0083ba62.chunk.js": "/denys-kononenko.github.io/video-slider-react/static/js/592.0083ba62.chunk.js",
-    "index.html": "/denys-kononenko.github.io/video-slider-react/index.html",
-    "main.fb739ec7.css.map": "/denys-kononenko.github.io/video-slider-react/static/css/main.fb739ec7.css.map",
-    "main.685188fd.js.map": "/denys-kononenko.github.io/video-slider-react/static/js/main.685188fd.js.map",
-    "592.0083ba62.chunk.js.map": "/denys-kononenko.github.io/video-slider-react/static/js/592.0083ba62.chunk.js.map"
+    "main.css": "/video-slider-react/static/css/main.fb739ec7.css",
+    "main.js": "/video-slider-react/static/js/main.7affed14.js",
+    "static/js/592.0083ba62.chunk.js": "/video-slider-react/static/js/592.0083ba62.chunk.js",
+    "index.html": "/video-slider-react/index.html",
+    "main.fb739ec7.css.map": "/video-slider-react/static/css/main.fb739ec7.css.map",
+    "main.7affed14.js.map": "/video-slider-react/static/js/main.7affed14.js.map",
+    "592.0083ba62.chunk.js.map": "/video-slider-react/static/js/592.0083ba62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb739ec7.css",
-    "static/js/main.685188fd.js"
+    "static/js/main.7affed14.js"
   ]
 }
